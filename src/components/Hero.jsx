@@ -20,10 +20,10 @@ const Hero = () => {
                         Hey, I'm <span className='text-purple-700'>Shruti</span>
                     </h1>
                     <h2 className='text-2xl md:text-4xl font-semibold mb-6 typewriter'>
-                        Full Stack Developer
+                        Mern Stack Developer
                     </h2>
                     <p className='text-lg text-gray-300 mb-8'>
-                    I build beautiful and high-performance web experiences using modern technologies and thoughtful design.</p>
+                      Building Modern Web Applications with React, Node.js, Express & MongoDB.</p>
                     <div className='flex space-x-4'>
                         <a href="#projects" className='px-6 py-3 bg-purple-900 rounded-lg font-medium hover:bg-purple-600 transition duration-300'>View Work</a>
                         <a href="#contact" className='px-6 py-3 border border-purple-900 rounded-lg font-medium hover:bg-purple/20 transition decoration-purple-200'>Contact Me</a>
