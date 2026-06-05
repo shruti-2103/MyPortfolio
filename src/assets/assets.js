@@ -1,5 +1,5 @@
 import { FaHtml5, FaCss3Alt, FaJs, FaReact, FaLightbulb, FaPaintBrush, FaCode } from "react-icons/fa";
-import { SiMongodb, SiNodejs, SiExpress,  SiGithub, SiTailwindcss } from "react-icons/si";
+import { SiMongodb, FaNodeJs, SiExpress,  SiGithub, SiTailwindcss } from "react-icons/si";
 
 // IMAGES
 import profileImg from '../assets/profile.avif';
@@ -69,7 +69,7 @@ export const skills = [
     },
     {
         title: "Node.js",
-        icon: SiNodejs,
+        icon: FaNodeJs,
         tags: ["REST APIs", "Authentication"],
         description: "Powerful JavaScript runtime used to build scalable backend applications and RESTful APIs."
     },
