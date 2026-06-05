@@ -1,5 +1,5 @@
 import { FaHtml5, FaCss3Alt, FaJs, FaReact, FaLightbulb, FaPaintBrush, FaCode } from "react-icons/fa";
-import { SiMongodb, SiNextdotjs, SiExpress,  SiGithub, SiTailwindcss } from "react-icons/si";
+import { SiMongodb, SiNodejs, SiExpress,  SiGithub, SiTailwindcss } from "react-icons/si";
 
 // IMAGES
 import profileImg from '../assets/profile.avif';
