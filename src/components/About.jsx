@@ -45,7 +45,7 @@ const About = () => {
                             <p className='text-gray-300 mb-6'>
                                 Hi, I'm Shruti Chourasiya, a Computer Science graduate passionate about Web Development. I enjoy building modern, responsive, and user-friendly web applications using clean and efficient code.</p>
                            <p className='text-gray-300 mb-6'>
-                               Currently, I am focused on strengthening my skills in JavaScript, React, Node.js, Express.js, and MongoDB while working toward becoming a Full-Stack Developer. I enjoy learning new technologies, improving UI/UX experiences, and solving real-world problems through code. </p>
+                               Currently, I am focused on strengthening my skills in React, Node.js, Express.js, and MongoDB while working toward becoming a Mern-Stack Developer. I enjoy learning new technologies, improving UI/UX experiences, and solving real-world problems through code. </p>
 
                             <p className='text-gray-300 mb-6'>
                                 Previously, I worked at Teleperformance as a Customer Support Executive, where I developed strong communication, teamwork, and problem-solving skills. I am always eager to learn, grow, and contribute to impactful projects.</p>
