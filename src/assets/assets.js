@@ -68,10 +68,10 @@ export const skills = [
         description: "Handle backend data."
     },
     {
-        title: "Next.js",
-        icon: SiNextdotjs,
-        tags: ["SSR", "API Routes"],
-        description: "Production-ready React framework."
+        title: "Node.js",
+        icon: SiNodejs,
+        tags: ["REST APIs", "Authentication"],
+        description: "Powerful JavaScript runtime used to build scalable backend applications and RESTful APIs."
     },
 
      {
