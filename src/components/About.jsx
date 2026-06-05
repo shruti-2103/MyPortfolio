@@ -43,10 +43,12 @@ const About = () => {
                         <div className='rounded-2xl p-8'>
                             <h3 className='text-2xl font-semibold mb-6'>My Journey</h3>
                             <p className='text-gray-300 mb-6'>
-                                Hi, I'm Shruti Chourasiya from Indore. I completed my Bachelor of Science in Computer Scienc. My interest in web development has driven me to build modern, responsive, and user-focused websites with clean code and smooth perfomance. I love continuously learning and exploring new tools—whether it's UI/UX, animations, or building scalable components. My goal is to become a full-stack developer and work on impactful real-world projects.</p>
+                                Hi, I'm Shruti Chourasiya, a Computer Science graduate passionate about Web Development. I enjoy building modern, responsive, and user-friendly web applications using clean and efficient code.</p>
+                           <p className='text-gray-300 mb-6'>
+                               Currently, I am focused on strengthening my skills in JavaScript, React, Node.js, Express.js, and MongoDB while working toward becoming a Full-Stack Developer. I enjoy learning new technologies, improving UI/UX experiences, and solving real-world problems through code. </p>
 
-                            <p className='text-gray-300 mb-6'>I'm a quick learner and adapt well to fast-changing environments. I’ve also worked at Teleperformance as a Customer Support Executive, which strengthened my communication and problem-solving skills.
-                                I'm open to new opportunities. You can download my CV for more details and Feel free to visit my LinkedIn and GitHub to explore my projects and professional journey.</p>
+                            <p className='text-gray-300 mb-6'>
+                                Previously, I worked at Teleperformance as a Customer Support Executive, where I developed strong communication, teamwork, and problem-solving skills. I am always eager to learn, grow, and contribute to impactful projects.</p>
 
                             {/* Cards */}
                             <div className='grid grid-cols-1 md:grid-cols-2 gap-6'>
